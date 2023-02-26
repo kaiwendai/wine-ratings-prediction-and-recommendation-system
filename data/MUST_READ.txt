@@ -1,0 +1,1 @@
+In order to successfully run all the notebooks submitted, please download ALL the files in the "data" folder on Google drive (link: https://drive.google.com/drive/folders/1XWs2H5UkQEGMq9Hqcs_4mduzaKUgvST3?usp=sharing) to the local "data" folder. 
